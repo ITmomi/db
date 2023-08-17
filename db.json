@@ -24,6 +24,5 @@
             "alignment": "center",
             "onMouseUp": "sun1.opacity = (sun1.opacity / 100) * 90;"
         }
-    },
-    "Time": "2023-08-17 14:19 KST"
+    }
 }
